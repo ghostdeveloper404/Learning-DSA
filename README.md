@@ -30,8 +30,6 @@ Welcome to the **Learning-DSA** repository! This project is designed to help you
 ## **Code Implementations**  
 This repository includes **code examples** in multiple languages such as:  
 - **Python 🐍**  
-- **C++ ⚡**  
-- **Java ☕**  
 - **JavaScript 🌍**  
 
 Feel free to contribute by adding more solutions or improving existing ones!
